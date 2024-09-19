@@ -1,0 +1,4 @@
+How to use WSL with vscode:
+1. On WSL to get access to the LINUX terminal
+2. Navigate to the correct directory (/mnt/c/Users/prory/OneDrive/Documents/2024-2025/Operating Systems/Learning)
+3. run code .
